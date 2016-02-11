@@ -1,0 +1,26 @@
+_repo: Archaeological-Essays-Vol-2_47833
+contributor:
+  creator:
+    editor:
+      agent_name: Stuart, John McDouall
+      birthdate: 1815
+      deathdate: 1866
+      gutenberg_agent_id: '2927'
+      url: http://www.gutenberg.org/2009/agents/2927
+      wikipedia: http://en.wikipedia.org/wiki/John_McDouall_Stuart
+creator:
+  author:
+    agent_name: Simpson, James Y.
+    gutenberg_agent_id: '44488'
+    url: http://www.gutenberg.org/2009/agents/44488
+description: ''
+gutenberg_issued: '2014-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47833'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Archaeological Essays Vol. 2
+url: http://www.gutenberg.org/ebooks/47833
