@@ -1,4 +1,5 @@
 _repo: Archaeological-Essays-Vol-2_47833
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,12 +9,17 @@ contributor:
       gutenberg_agent_id: '2927'
       url: http://www.gutenberg.org/2009/agents/2927
       wikipedia: http://en.wikipedia.org/wiki/John_McDouall_Stuart
+covers:
+- cover_type: archival
+  image_path: 47833-h/images/cover.jpg
 creator:
   author:
     agent_name: Simpson, James Y.
     gutenberg_agent_id: '44488'
     url: http://www.gutenberg.org/2009/agents/44488
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47833#Archaeological-Essays-Vol-2
 gutenberg_issued: '2014-12-31'
 gutenberg_type: Text
 identifiers:
